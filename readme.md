@@ -1,6 +1,6 @@
-GA DSI Capstone Project
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) GA DSI Capstone Project
 
-Restaurant Recommendation System based on Yelp Reviews Dataset
+## Restaurant Recommendation System based on Yelp Reviews Dataset
 
 ## Overview
 
